@@ -1,9 +1,11 @@
 ## 👋 Hello! I'm Mohamed Eslam.
 
+![Profile Views](https://komarev.com/ghpvc/?username=MohamedEslam04&style=flat-square&color=brightgreen)
+
 ### 😎 About Me
-- **Role:** Junior Frontend Developer
-- **Location:** Cairo, Egypt
-- **Languages:** Arabic (Native), English (Beginner)
+- **Role:** Junior Frontend Developer  
+- **Location:** Cairo, Egypt  
+- **Languages:** Arabic (Native), English (Beginner)  
 - **Interests:** 🎮 Web Development, 🚀 Performance Optimization, 🎨 UI/UX Design
 
 ---
@@ -23,24 +25,24 @@
 
 ### 📌 Featured Projects
 
-#### [🛒 Shomo'a Dubai](https://shomoa-dubai.com/) (Ongoing)
-**Tech:** Nuxt 3, Vue 3, Pinia, Tailwind CSS, TypeScript, Axios
-- Developed a full-featured e-commerce website with advanced filtering and a blog section.
+#### [🛒 Shomo'a Dubai](https://shomoa-dubai.com/) _(Ongoing)_
+**Tech:** Nuxt 3, Vue 3, Pinia, Tailwind CSS, TypeScript, Axios  
+- Developed a full-featured e-commerce website with advanced filtering and a blog section.  
 - Ensured a responsive and optimized UI/UX for a smooth shopping experience.
 
 #### [🎮 Mini-Games](https://e-book.eventiadv.com/)
-**Tech:** Vue, Nuxt, Tailwind CSS, TypeScript
-- Built an interactive platform featuring cognitive mini-games.
+**Tech:** Vue, Nuxt, Tailwind CSS, TypeScript  
+- Built an interactive platform featuring cognitive mini-games.  
 - Implemented drag-and-drop mechanics and dynamic animations.
 
-#### [⚽ ONClub-EF](Ongoing)
-**Tech:** Nuxt 3, Vue 3, JavaScript, SCSS, Responsive Design
-- Developed a sports news website with video carousels and real-time updates.
+#### [⚽ ONClub-EF] _(Ongoing)_
+**Tech:** Nuxt 3, Vue 3, JavaScript, SCSS, Responsive Design  
+- Developed a sports news website with video carousels and real-time updates.  
 - Focused on performance optimization and localization.
 
-#### [📊 Expert System](https://expert-system.atwdemo.com/) (Ongoing)
-**Tech:** Vue 3, Laravel 11, Tailwind CSS, TypeScript, WebSockets, Docker
-- Developed the Seller Portal (POS) and Analytics Portal.
+#### [📊 Expert System](https://expert-system.atwdemo.com/) _(Ongoing)_
+**Tech:** Vue 3, Laravel 11, Tailwind CSS, TypeScript, WebSockets, Docker  
+- Developed the Seller Portal (POS) and Analytics Portal.  
 - Integrated E-commerce APIs, Messaging Module, and HR solutions.
 
 ---
