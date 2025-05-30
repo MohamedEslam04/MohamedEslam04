@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MohamedEslam04&style=flat-square&color=brightgreen)
 
 ### 😎 About Me
-- **Role:** Junior Frontend Developer  
+- **Role:** Frontend Developer  
 - **Location:** Cairo, Egypt  
 - **Languages:** Arabic (Native), English (Beginner)  
 - **Interests:** 🎮 Web Development, 🚀 Performance Optimization, 🎨 UI/UX Design
@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,vue,nuxt,react,angular,tailwind,sass,bootstrap)](https://skillicons.dev)
 
 #### Backend & Tools
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,docker,git,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,docker,githubactions,git,github,postman)](https://skillicons.dev)
 
 #### What I'm Learning
 [![My Skills](https://skillicons.dev/icons?i=nextjs,prisma,mysql,laravel)](https://skillicons.dev)
