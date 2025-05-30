@@ -13,13 +13,13 @@
 ### ✨ Skills
 
 #### Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,vue,nuxt,react,angular,tailwind,sass,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,vue,nuxt,react,tailwind,sass,bootstrap)](https://skillicons.dev)
 
 #### Backend & Tools
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,docker,githubactions,git,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,githubactions,git,github,postman)](https://skillicons.dev)
 
 #### What I'm Learning
-[![My Skills](https://skillicons.dev/icons?i=nextjs,prisma,mysql,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,angular,nodejs,express,mysql,laravel)](https://skillicons.dev)
 
 ---
 
