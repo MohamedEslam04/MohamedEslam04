@@ -15,7 +15,7 @@
 #### Frontend Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,vue,nuxt,react,tailwind,sass,bootstrap)](https://skillicons.dev)
 
-#### Backend & Tools
+#### Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,githubactions,git,github,postman)](https://skillicons.dev)
 
 #### What I'm Learning
