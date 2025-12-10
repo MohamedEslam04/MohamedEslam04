@@ -106,12 +106,3 @@ A fully accessible, high-performance UI component library for Vue & Nuxt built o
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
----
-
-If you'd like, I can also:  
-✅ add icons / badges for technologies  
-✅ create a dark-themed or animated version  
-✅ add contribution graphs or trophies  
-
-Just tell me! 🚀
