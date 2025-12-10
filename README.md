@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MohamedEslam04&style=flat-square&color=brightgreen)
 
 I'm a **Software Engineer** specializing in modern JavaScript frameworks, building  
-scalable, responsive, and high-performance user interfaces. I work mainly with **Nuxt.js, Vue 3, and React**,  
+scalable, responsive, and high-performance user interfaces. I work mainly with **Nuxt.js, Vue, and React**,  
 and I enjoy creating reusable UI systems, improving performance, and contributing to open-source.
 
 📍 Cairo, Egypt  
@@ -30,7 +30,6 @@ and I enjoy creating reusable UI systems, improving performance, and contributin
 ### 📚 **Other Skills**
 - Responsive Design  
 - RESTful API Integration  
-- Modular Architecture (HMVC, SOA, DDD)  
 - Performance Optimization  
 - CI/CD  
 - Teamwork & Problem-Solving
