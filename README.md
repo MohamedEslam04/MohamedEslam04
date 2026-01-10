@@ -140,4 +140,5 @@ A fully accessible, high-performance UI component library for Vue & Nuxt built o
  
 ---
 
-![snake gif](./assets/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/MohamedEslam04/MohamedEslam04/output/github-contribution-grid-snake-dark.svg)
+
