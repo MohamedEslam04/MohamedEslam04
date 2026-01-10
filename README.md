@@ -132,6 +132,12 @@ A fully accessible, high-performance UI component library for Vue & Nuxt built o
 
 <div align="center">
   <img src="https://github-readme-stats.zcy.dev/api?username=MohamedEslam04&show_icons=true&theme=highcontrast&hide_border=true" />
+
+---
+
+ [![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=MohamedEslam04&theme=onedark&no-bg=true&no-frame=true&column=-1)](https://github.com/MohamedEslam04?tab=repositories)<!--(https://github.com/ryo-ma/github-profile-trophy)-->
 </div>
+ 
+---
 
 ![snake gif](./assets/github-contribution-grid-snake-dark.svg)
