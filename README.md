@@ -1,6 +1,12 @@
 <div id="header" align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" height=170 />
+---
+
+![snake gif](https://raw.githubusercontent.com/MohamedEslam04/MohamedEslam04/output/github-contribution-grid-snake-dark.svg)
+
+---
 </div>
+
 <div id="badges" align="center">
 
   <a href="https://www.linkedin.com/in/mohamedeslam04/">
@@ -139,6 +145,3 @@ A fully accessible, high-performance UI component library for Vue & Nuxt built o
 </div>
  
 ---
-
-![snake gif](https://raw.githubusercontent.com/MohamedEslam04/MohamedEslam04/output/github-contribution-grid-snake-dark.svg)
-
