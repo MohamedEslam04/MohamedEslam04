@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" height=170 />
+
 ---
 
 ![snake gif](https://raw.githubusercontent.com/MohamedEslam04/MohamedEslam04/output/github-contribution-grid-snake-dark.svg)
@@ -9,7 +10,7 @@
 
 <div id="badges" align="center">
 
-  <a href="https://www.linkedin.com/in/mohamedeslam04/">
+  <a href="https://www.linkedin.com/in/mohamed-eslam-41a3492a4/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mohamedeslam0419@gmail.com">
@@ -28,6 +29,7 @@
   <img src="https://komarev.com/ghpvc/?username=MohamedEslam04&color=12100E&style=for-the-badge&label=VIEWS&abbreviated=true"/>
 </div>
 <div id="view" align="center">
+  <img src="./assets/Luffy.jpeg" alt="Luffy" height="110" style="border-radius: 10px; margin-top: 10px;"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&width=435&lines=Software+Engineer;Frontend+Specialist;Vue.js+%2F+Nuxt.js;React+%2F+Next.js)](https://git.io/typing-svg)
 <h1>
