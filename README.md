@@ -189,7 +189,7 @@ Schema-driven scraping service — "link to ready-to-import data" — with an in
 
 ---
 
-### 🗺 Feasibility Study System _(09/2026 – Present)_
+### 🗺 Feasibility Study System _(07/2026 – Present)_
 Arabic-first (RTL) real-estate feasibility platform for Saudi land plots — monorepo of Next.js and Laravel.
 
 - Map-driven UX: capture a plot's location, draw and measure boundaries, and review a ranked summary of nearby landmarks and feasibility signals.
@@ -200,7 +200,7 @@ Arabic-first (RTL) real-estate feasibility platform for Saudi land plots — mon
 
 ---
 
-### 🤖 Automation Hub _(09/2026 – Present)_
+### 🤖 Automation Hub _(06/2026 – Present)_
 Internal platform for Playwright test orchestration — register repos, queue runs, stream logs, surface analytics.
 
 - Docker-based Playwright runners with live log streaming, run history, tagging, and team analytics.
@@ -223,7 +223,7 @@ Large-scale, AI-powered **multi-tenant ERP** for document processing and invoice
 
 ---
 
-### 🗂 Safha Archive _(01/2026 – Present)_
+### 🗂 Safha Archive _(02/2026 – Present)_
 Document archive monorepo — Next.js frontend and Laravel API.
 
 - Typesense for system-wide search and Gemini for semantic embeddings.
@@ -256,7 +256,7 @@ Institutional website and admin dashboard for Egypt's international development 
 
 ---
 
-### 🏗 Amar Benaa — Construction ERP _(2025 – Present)_
+### 🏗 Amar Benaa — Construction ERP _(04/2025 – Present)_
 Enterprise ERP digitizing construction and logistics operations.
 
 - Modular enterprise frontend architecture for multi-step, paper-to-web workflows.
