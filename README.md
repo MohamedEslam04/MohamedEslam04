@@ -54,7 +54,7 @@ I'm a **Full-Stack Software Engineer** based in **Cairo, Egypt**, building scala
 
 I specialize in **enterprise dashboards**, **multi-tenant ERP / SaaS platforms**, **design systems**, and **AI-powered products**, with a strong focus on performance, maintainability, EN/AR (RTL) localization, and developer experience. I also ship open-source UI tooling on npm, maintain company-wide E2E suites with Playwright, and contribute fixes upstream to projects like the GitHub Advisory Database and Next.js.
 
-💼 Currently a **Full-Stack Engineer at Velents.ai**, shipping the **Agent Hub** AI voice-agent platform, the **Safha** document products, and standalone microservices (OCR extraction, PostGIS geospatial, AI scraping) — plus GitOps delivery on AWS and Azure, aligned with Saudi Vision 2030.
+💼 Currently a **Full-Stack Engineer at Velents.ai**, shipping the **Safha** document products, the **Feasibility Study** platform, and standalone microservices (OCR extraction, PostGIS geospatial, AI scraping) — plus GitOps delivery on AWS and Azure, aligned with Saudi Vision 2030.
 
 <br/>
 
@@ -78,9 +78,9 @@ class SoftwareEngineer {
 
     currentlyBuilding(): string[] {
         return [
-            "Agent Hub — AI voice agents",
             "Safha — document & invoice automation",
-            "AI Scraping Engine — link to ready-to-import data"
+            "AI Scraping Engine — link to ready-to-import data",
+            "Feasibility Study — map-driven geospatial analysis"
         ];
     }
 
@@ -164,7 +164,7 @@ class SoftwareEngineer {
 ## 💼 Experience
 
 **Full-Stack Engineer** · [Velents.ai](https://velents.ai) — _01/2026 – Present · Remote (Riyadh)_<br/>
-Shipping Agent Hub, Safha, and standalone microservices in Next.js 16 / Laravel 13 monorepos, plus GitOps delivery on AWS and Azure.
+Shipping Safha and standalone microservices in Next.js 16 / Laravel 13 monorepos, plus GitOps delivery on AWS and Azure.
 
 **Front-End Engineer** · [Amar Benaa](https://www.amar-benaa.com) — _04/2025 – Present · Part-time, Freelance (Riyadh)_<br/>
 Construction ERP frontend: modular architecture, paper-to-web workflows, and real-time analytics.
@@ -177,17 +177,6 @@ Nuxt, Vue, and Tailwind products for agency clients — performance, cross-brows
 ---
 
 ## 📌 Featured Projects
-
-### 📞 Agent Hub — AI Voice-Agent Platform _(01/2026 – Present)_
-Velents' AI voice-agent platform for automated calling workflows, built in a **Next.js 16 / Laravel 13** monorepo.
-
-- Shipped full-stack features across the voice-agent dashboard: agent configuration, campaign flows, and call analytics.
-- Built shared UI primitives and the company-wide **Playwright E2E suite** for the product.
-- Collaborated across frontend, backend, and AI teams in a shared TypeScript monorepo.
-
-**Tech:** Next.js 16, React 19, TypeScript, Laravel 13, Tailwind CSS v4, TanStack Query, Zustand, Playwright
-
----
 
 ### 🕸 AI Scraping Engine _(10/2026 – Present)_
 Schema-driven scraping service — "link to ready-to-import data" — with an internal dev console.
