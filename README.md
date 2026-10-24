@@ -256,7 +256,7 @@ Institutional website and admin dashboard for Egypt's international development 
 
 ---
 
-### 🏗 Amar Benaa — Construction ERP _(04/2025 – Present)_
+### 🏗 Amar Benaa — Construction ERP _(04/2025 – 06/2026)_
 Enterprise ERP digitizing construction and logistics operations.
 
 - Modular enterprise frontend architecture for multi-step, paper-to-web workflows.
